@@ -1,7 +1,7 @@
 # define la clase numero complejo  
 class Complejo
   attr_reader :real, :imag
-  
+ 
   # método inicializar clase
   def initialize(real=0, imag=0)  
     # atributos

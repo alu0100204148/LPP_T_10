@@ -1,4 +1,4 @@
-require_relative 'complejo'
+require 'lib/complejo'
 require 'test/unit'
  
 class TestComplejo < Test::Unit::TestCase
