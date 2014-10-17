@@ -1,0 +1,6 @@
+#Para evitar almacenar los ﬁcheros acabados en ~
+*~
+#Para evitar almacenar los ﬁcheros con extension .o
+*.o
+#Para evitar almacenar los ﬁcheros con extension .class
+*.class
